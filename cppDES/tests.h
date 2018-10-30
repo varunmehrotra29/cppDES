@@ -16,7 +16,7 @@ void test(ui64 input, ui64 key)
     printf("D: %016lX\n", result);
     printf("P: %016lX\n", input);
 }
-
+//hackoctober
 void test1()
 {
     ui64 input  = 0x9474B8E8C73BCA7D;
